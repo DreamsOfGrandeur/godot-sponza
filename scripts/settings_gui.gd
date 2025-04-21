@@ -70,7 +70,7 @@ var presets = [
 		"environment/glow_enabled": [true, "Enabled"],
 		"environment/ss_reflections_enabled": [true, "Enabled"],
 		"environment/ssao_enabled": [true, "High-quality"],
-		"rendering/anti_aliasing/quality/msaa_3d": [Viewport.MSAA_8X, "8×"],
+		"rendering/anti_aliasing/quality/msaa_3d": [Viewport.MSAA_DISABLED, "8×"],
 	},
 ]
 
